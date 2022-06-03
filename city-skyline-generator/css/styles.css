@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    height: 100vh;
+  }
+  
+  #buttons {
+    position: fixed;
+    top: 1rem;
+    right: 1rem;
+  }
+  
